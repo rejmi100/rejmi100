@@ -1,4 +1,4 @@
-<h1 align="center">~$ Hello, World. I'm Roman 👋</h1>
+<h1 align="center">~$ Hello, World. I'm Rejmi 👋</h1>
 
 <p align="center">
   IT student · UNIX enthusiast · building desktop & web apps<br/>
